@@ -1,0 +1,44 @@
+
+
+.navbar-default{
+	background: linear-gradient(90deg, #4C01E2 0%, #7B0056 100%); 
+}
+
+
+
+header{
+	
+background: linear-gradient(90deg, #4C01E2 0%, #7B0056 100%);
+
+/*min-height: 100vh;
+min-width: auto;
+max-width: auto;*/ /*uma hora vou usar*/ 
+
+
+	
+}
+
+
+
+
+#cor{
+	background-color: #f5f5f5;
+
+	
+}
+
+#course{
+	padding-bottom: 3%;
+}
+
+#card_space{
+   padding-top: 5%;
+	margin-bottom: 5%;
+}
+
+
+footer{
+	padding: 2%;
+}
+
+
